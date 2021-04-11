@@ -1,31 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homepage on DIANA MOREIRA</title>
     <link>/</link>
     <description>Recent content in Homepage on DIANA MOREIRA</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>/info_for_potential/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/info_for_potential/</guid>
-      <description>Gautam Rao | Homepage    Gautam Rao Assistant Professor of Economics, Harvard University
- Bio
-Contact
-Publications
-Working Papers
-Work in Progress
-From Another Life
-Personal
-  Media Coverage  This is a note for Harvard PhD students who would like me to advise their reseach. Importantly, none of the following is set in stone. Different types of advising relationships work best for different students. If you would like me to be your advisor, come talk to me, and we can discuss what would work best for you.</description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>/sections/aboutme/</link>
